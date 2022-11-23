@@ -27,7 +27,7 @@
         "crypto-random-string": "^3.3.0",
         "csurf": "^1.9.0",
         "darkmode-js": "^1.5.7",
-        "eslint": "^4.19.1",
+        "eslint": "^8.28.0",
         "eslint-plugin-react": "^7.22.0",
         "express": "^4.14.0",
         "http-proxy-middleware": "^0.19.1",
